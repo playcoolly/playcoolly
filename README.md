@@ -1,4 +1,7 @@
-### Hi there 👋
+I am a human
+I can code
+I can code in Java:tm:, Python:tm:, and HTML5
+
 
 <!--
 **bitcoder-java/bitcoder-java** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
