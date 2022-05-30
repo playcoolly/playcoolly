@@ -1,4 +1,5 @@
-### I code in <div><img src=[https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJava_(programming_language)&psig=AOvVaw0UytxIrxxCF3TWHdigwuwa&ust=1654005001582000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjXzPauh_gCFQAAAAAdAAAAABAD](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png)></div>, Python™, and HTML5
+[![bitcoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitcoder-java)](https://github.com/bitcoder-java/github-readme-stats)
+
 
 
 <!--
