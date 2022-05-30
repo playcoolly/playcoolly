@@ -1,6 +1,4 @@
-### I am a human
-### I can code
-### I can code in Java:tm:, Python:tm:, and HTML5
+### I code in Java™, Python™, and HTML5
 
 
 <!--
